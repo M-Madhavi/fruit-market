@@ -1,0 +1,5 @@
+
+var fruits=["app","banana","pear","mango","strawb","peach","goa","custapp","kiwi","papaya","pine","grape","orange","watermln","pumkin","promg$
+
+   console.log(fruits.length);
+console.log(fruits);
